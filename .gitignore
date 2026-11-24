@@ -1,0 +1,10 @@
+# working data: captures, build output, notes, the capture queue
+qa/
+dist/
+docs/
+tools/queue/
+tools/motion.py
+tools/__pycache__/
+*.wav
+*.mp4
+.DS_Store
